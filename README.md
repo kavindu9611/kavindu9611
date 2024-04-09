@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavindu</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
-
+![](https://komarev.com/ghpvc/?username=kavindu9611)
 - 🌱 I’m currently learning **Typescript,AWS**
 
 - 📫 How to reach me **kavinduwickramasinghe1920@gmail.com**
