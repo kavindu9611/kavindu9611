@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu</h1>
 <h3 align="center">A passionate Software engineer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Typescript,AWS**
+
 
 - 📫 How to reach me **kavinduwickramasinghe1920@gmail.com**
 
